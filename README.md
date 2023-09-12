@@ -1,4 +1,4 @@
-# studio-projects
+# UClass-Day 2
 La anatomía de una aplicación en Flutter
 Una aplicación en Flutter está compuesta de varias carpetas, archivos de configuración y código que cumple con ciertos propósitos cuando es ejecutada.
 
